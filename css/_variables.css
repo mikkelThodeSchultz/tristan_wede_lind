@@ -1,0 +1,14 @@
+:root {
+    --colorHeaderText: #d6c37f;
+    --colorHeaderBg: #506283;
+
+    --colorBgMain: #fffaf0;
+    --colorBgSecondary: #d6c37f;
+    --colorHeaderAndFooter: #262858;
+
+    --colorWhite: #ffffff;
+    --colorRed: #582627;
+    --colorImageWhite: #fffaf0;
+
+    --fontMain: Montserrat, sans-serif;
+}
